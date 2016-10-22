@@ -6,3 +6,11 @@ E:\code\Visual Studio 2008\二十四点猜解\二十四点猜解\bin\Debug\二�
 E:\code\Visual Studio 2008\二十四点猜解\二十四点猜解\bin\Debug\二十四点猜解.pdb
 E:\code\Visual Studio 2008\二十四点猜解\二十四点猜解\obj\Debug\二十四点猜解.exe
 E:\code\Visual Studio 2008\二十四点猜解\二十四点猜解\obj\Debug\二十四点猜解.pdb
+E:\code\Visual Studio 2008\compute24\二十四点猜解\obj\Debug\二十四点猜解.exe
+E:\code\Visual Studio 2008\compute24\二十四点猜解\obj\Debug\二十四点猜解.pdb
+E:\code\Visual Studio 2008\compute24\二十四点猜解\bin\Debug\二十四点猜解.exe
+E:\code\Visual Studio 2008\compute24\二十四点猜解\bin\Debug\二十四点猜解.pdb
+E:\code\Visual Studio 2008\compute24\二十四点猜解\obj\Debug\ResolveAssemblyReference.cache
+E:\code\Visual Studio 2008\compute24\二十四点猜解\obj\Debug\二十四点猜解.Form1.resources
+E:\code\Visual Studio 2008\compute24\二十四点猜解\obj\Debug\二十四点猜解.Properties.Resources.resources
+E:\code\Visual Studio 2008\compute24\二十四点猜解\obj\Debug\二十四点猜解.csproj.GenerateResource.Cache

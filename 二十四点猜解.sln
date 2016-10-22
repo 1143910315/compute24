@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二十四点猜解", "二十四点猜解\二十四点猜解.csproj", "{B3C64218-3B4F-42C0-A22C-CECBC7F22DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C64218-3B4F-42C0-A22C-CECBC7F22DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C64218-3B4F-42C0-A22C-CECBC7F22DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C64218-3B4F-42C0-A22C-CECBC7F22DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C64218-3B4F-42C0-A22C-CECBC7F22DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
